@@ -10,7 +10,7 @@ html {
   }
   
   h1 {
-    color: hotpink;
+    color: rgb(47, 53, 169);
     font-size: 2em;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-bottom: 4px dashed purple;
@@ -22,7 +22,7 @@ html {
   }
   
   .job-title {
-    color: #999999;
+    color: #671919;
     font-weight: bold;
   }
   
